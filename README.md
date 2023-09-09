@@ -2,7 +2,7 @@
 
 # *Análise sobre as razões de saída dos funcionários*
 
-Reasons for Leaving
+
 ![noticia_100527](https://github.com/Jaqueline-SPC/Projeto_Individual_M5/assets/131497257/1ed8bc55-88fa-4c20-813c-f30d03652854)
 
 ## *Contexto*
@@ -31,8 +31,8 @@ Nesta análise eu segui os seguintes passos:
 
 * Baixei e utilizei o Tableau.
 * Importei o conjunto de dados para o Tableau.
-* Os dados para o desenvolvimento do projeto está nesse .
-* Realizei a limpeza dos dados.
+* Os dados para o desenvolvimento do projeto está nesse link https://docs.google.com/spreadsheets/d/1c_7MiG600yAUXgsCnyE7F869rtQxjRP4/edit?usp=sharing&ouid=111671269957543970130&rtpof=true&sd=true .
+* Utilizei o Colab para a limpeza dos dados e desfecho da análise.
 * Fiz uma análise exploratória.
 * Gerei gráficos para a apresentação dos resultados.
 * Apresentei insights relevantes e conclusões fundamentadas com base
@@ -44,6 +44,12 @@ Para esta análise utilizei das seguintes ferramentas:
 
 *Colab*
 
+*Python*
+
+*Pandas*
+
+*Numpy*
+
 *Tableau*
 
 *GItHub*
@@ -52,10 +58,11 @@ Para esta análise utilizei das seguintes ferramentas:
 
 Para sujestões ou informações entre em contato comigo:
 
-E-mail - jakchelyrick@gmail.com
+E-mail - jakchellyrick@gmail.com
 
 Linkedin - <a href="https://www.linkedin.com/in/jaqueline-data-analitics">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
 
 
   
